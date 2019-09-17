@@ -51,6 +51,10 @@ ol {
 	list-style-type: armenian;
 }
 
+pre {
+	margin-left: -20%;
+}
+
 footer {
 	position: relative;
 	top: 80px;
